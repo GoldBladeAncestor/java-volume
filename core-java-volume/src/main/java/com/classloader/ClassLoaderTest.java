@@ -29,5 +29,7 @@ public class ClassLoaderTest {
         Object invoke = getClass.invoke(constructors);
         System.out.println(invoke);
 
+
+
     }
 }
